@@ -1,0 +1,1 @@
+import categoryModel from "../model/category.model.js";
